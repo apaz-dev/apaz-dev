@@ -48,7 +48,6 @@ If you want to make me happy just put me "Antes de Ameri" 🎶🎶.
 |------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | [LIBFT](https://github.com/apaz-dev/libft)<br>([UPDATED_LIBFT](https://github.com/apaz-dev/libft_c)) | [GNL](https://github.com/apaz-dev/get_next_line) |
 |                                                                                                      | [PRINTF](https://github.com/apaz-dev/printf)     |
-|                                                                                                      |                                                  |
 
 <!--
 ### 📢 Find me elsewhere
