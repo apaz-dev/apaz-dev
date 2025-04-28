@@ -44,9 +44,9 @@ If you want to make me happy just put me "Antes de Ameri" 🎶🎶.
 ---
 ### 🚗 My Roadmap in 42 Cursus
 
-| MILSTONE 1                                                                                           | MILSTONE 2                                       |
-|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| [LIBFT](https://github.com/apaz-dev/libft)<br>([UPDATED_LIBFT](https://github.com/apaz-dev/libft_c)) | [GNL](https://github.com/apaz-dev/get_next_line) |
+| MILSTONE 1                                                                                           | MILSTONE 2                                       | MILSTONE 3 |
+|------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------|
+| [LIBFT](https://github.com/apaz-dev/libft)<br>([UPDATED_LIBFT](https://github.com/apaz-dev/libft_c)) | [GNL](https://github.com/apaz-dev/get_next_line) |[SO_LONG](https://github.com/apaz-dev/so_long)|
 |                                                                                                      | [PRINTF](https://github.com/apaz-dev/printf)     |
 
 <!--
